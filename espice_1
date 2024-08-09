@@ -1,0 +1,73 @@
+<!Doctype HTML>
+<html>
+    <head>
+        <link rel="stylesheet" href="espice.css">
+        <title >NOTEBOOK</title>
+    </head>
+    <body style="background-color: #f8f8f8;">
+        <p class="org"><strong>Skribble</strong></p>
+        <hr>
+        <br><br>
+
+        <div class="one">
+            <h2  id="oneh2">My Notebooks</h2>
+            <p id="onep">5 Notebooks</p>
+            <hr style="color: rgb(149, 153, 156); margin-left:19%; margin-right:20%; display:block">
+            <br>
+        </div>
+
+        <div class="two">
+            <p id="twop"><strong>Create New Notebook</strong></p>
+            <a href="E-spice_code_newpg.html" style="text-decoration: none;"><p style="padding-right:20px; color:#245ae4; font-size:50px; display:inline">+</p></a>
+        </div>
+
+        <br>
+        
+        <div class="three">
+            <span id="threespn">A</span>
+            <p id="threep">Arnav's Notebook <br><span id="spn3">Created on 22 Dec 2023</span></p>
+            <a href="E-spice_code_newpg.html"><img src="Delete-pi.png" alt="Delete" style="height: 25px; width:25px"></a>
+            <br>
+        </div>
+
+        <br>
+        
+        <div class="three">
+            <span id="threespn">R</span>
+            <p id="fourp">Raghav's Notebook <br><span id="spn3">Created on 22 Dec 2023</span></p>
+            <a href="E-spice_code_newpg.html"><img src="Delete-pi.png" alt="Delete" style="height: 25px; width:25px"></a>
+            <br>
+        </div>
+
+        <br>
+                
+        <div class="three">
+            <span id="threespn">D</span>
+            <p id="fivep">DPS Noida <br><span id="spn3">Created on 22 Dec 2023</span></p>
+            <a href="E-spice_code_newpg.html"><img src="Delete-pi.png" alt="Delete" style="height: 25px; width:25px"></a>
+            <br>
+        </div>
+
+        <br>
+                
+        <div class="three">
+            <span id="threespn">C</span>
+            <p id="fivep">Chemistry <br><span id="spn3">Created on 22 Dec 2023</span></p>
+            <a href="E-spice_code_newpg.html"><img src="Delete-pi.png" alt="Delete" style="height: 25px; width:25px"></a>
+            <br>
+        </div>
+
+        <br>
+                
+        <div class="three">
+            <span id="threespn">P</span>
+            <p id="fivep">Physics <br><span id="spn3">Created on 22 Dec 2023</span></p>
+            <a href="E-spice_code_newpg.html"><img src="Delete-pi.png" alt="Delete" style="height: 25px; width:25px"></a>
+            <br>
+        </div>
+
+        <br>
+
+
+    </body>
+</html>
